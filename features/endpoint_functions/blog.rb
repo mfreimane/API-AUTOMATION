@@ -38,7 +38,7 @@ def create_new_blog_post(user)
                       cookies: {},
                       payload: payload)
   assert_status_code(200, response, "Create post")
-  puts response
+  p response
   response_hash = JSON.parse(response)
   puts response_hash
   assert_equal(content, response_hash['content'], 'content is not correct!')
