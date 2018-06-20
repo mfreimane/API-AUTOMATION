@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a41d5198-5a57-4d7a-9b54-3798a9530a19" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/reporter.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/endpoint_functions/blog.rb" beforeDir="false" afterPath="$PROJECT_DIR$/features/endpoint_functions/blog.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/step_definitions/blog_steps.rb" beforeDir="false" afterPath="$PROJECT_DIR$/features/step_definitions/blog_steps.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reporter.rb" beforeDir="false" afterPath="$PROJECT_DIR$/reporter.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -55,8 +52,8 @@
       <file leaf-file-name="reporter.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/reporter.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+            <state relative-caret-position="161">
+              <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -226,12 +223,12 @@
       <workItem from="1529298877772" duration="972000" />
       <workItem from="1529334362326" duration="8640000" />
       <workItem from="1529490832935" duration="407000" />
-      <workItem from="1529503632301" duration="2026000" />
+      <workItem from="1529503632301" duration="2460000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43882000" />
+    <option name="totallyTimeSpent" value="44316000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -625,8 +622,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/reporter.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        <state relative-caret-position="161">
+          <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
         </state>
       </provider>
     </entry>
